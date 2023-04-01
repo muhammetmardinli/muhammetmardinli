@@ -59,8 +59,8 @@
 </td></tr></table>  
 
 <br/>  
-
-
+<p width="100%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetmardinli&show_icons=true&locale=en&layout=compact" alt="muhammetmardinli" /></p>
+<br/>  
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/https://twitter.com/Muhammetmardin1" target="_blank">
